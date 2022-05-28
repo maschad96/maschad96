@@ -7,7 +7,7 @@ const matt = {
     food: 'steak',
     game: 'Forza Horizon',
     movie: 'Shawshank Redemption'
-  }
+  },
   technologies: ['javascript', 'typescript', 'web accessibility', 'react', 'ethersjs', 'hardhat', 'solidity', 'python']
 }
 ```
